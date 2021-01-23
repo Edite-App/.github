@@ -4,10 +4,6 @@ Welcome to Edite 👋 Thanks for deciding to read this guide and contribute!
 **Remember:** You don't need to think big even a typo fix might save our day and make you a hero.
 Every contribution counts! 🔥
 
-## 🔍 Where to Contribute
-
-It's recommended to always focus on where the issue is found.
-
 ## 🐛 Found a Bug?
 
 If you find a bug, you can contribute by submitting an issue [here](https://github.com/Edite-App/Edite-Webapp/issues)
